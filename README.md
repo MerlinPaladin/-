@@ -24,7 +24,11 @@
 
 ### Пояснительная часть
 
-Библиотеки и технологии: PyQt5,  QtWidgets, QApplication, QWidget,
+Библиотеки и технологии:
+ PyQt5, 
+ QtWidgets, 
+ QApplication,
+ QWidget,
  QVBoxLayout,
  QPushButton, 
  QListWidget,
